@@ -1,3 +1,5 @@
+# AhrefsBot
+
 **AhrefsBot** adalah Web Crawler yang mendukung database tautan 12 triliun untuk perangkat pemasaran online Ahrefs. Itu terus-menerus merayapi web untuk mengisi basis data kami dengan tautan baru dan memeriksa status tautan yang ditemukan sebelumnya untuk memberikan data paling komprehensif dan terkini kepada pengguna kami.
 
 Data tautan yang dikumpulkan oleh Ahrefs Bot dari web digunakan oleh ribuan pemasar digital di seluruh dunia untuk merencanakan, melaksanakan, dan memantau kampanye pemasaran online mereka.

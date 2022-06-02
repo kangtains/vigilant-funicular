@@ -1,3 +1,5 @@
+# Host Ads List
+
 - AdGuard DNS Filter
 
 ```shell

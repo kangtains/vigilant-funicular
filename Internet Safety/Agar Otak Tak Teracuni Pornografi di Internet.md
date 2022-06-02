@@ -1,3 +1,5 @@
+# Agar Otak Tak Teracuni Pornografi di Internet
+
 Alasan terbesar kenapa pornografi di internet sulit dibasmi adalah karena bidang ini tergolong bisnis yang menghasilkan banyak uang. Tak heran jika banyak orang yang getol menggarap bidang ini, meski sudah dilawan dengan berbagai trik dan kampanye. Sebagai pendukung internet sehat, kita perlu menyadari fakta ini, agar bisa “mempersenjatai” diri dengan lebih baik lagi.
 
 Siap-siap kaget dengan data statistik yang dipaparkan lembaga riset terkait pornografi internet.

@@ -1,3 +1,5 @@
+# Agar Tidak ditandai sebagai Email Spam
+
 Dalam mengirimkan email pemasaran / beriklan, dengan memberikan easy-to-use dan easy-to-spot unsubscribe link, anda bisa mengurangi keluhan spam secara signifikan.
 
 ## Kelola Subyek Subjek Anda
