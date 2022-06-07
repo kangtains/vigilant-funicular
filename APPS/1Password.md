@@ -47,7 +47,7 @@ echo 'deb &#91;arch=amd64 signed-by=/usr/share/keyrings/1password-archive-keyrin
 To verify packages signatures and make sure they’re authentic, add lines below:
 
 ```shell
-sudo mkdir -p /etc/debsig/policies/AC2D62742012EA22/</code></pre>
+sudo mkdir -p /etc/debsig/policies/AC2D62742012EA22/
 ```
 
 ```shell
@@ -65,7 +65,7 @@ curl -sS https://downloads.1password.com/linux/keys/1password.asc | sudo gpg --d
 Terakhir, jalankan perintah di bawah ini untuk memperbarui dan menginstal 1Password
 
 ```shell
-sudo apt update &amp;&amp; sudo apt install 1password
+sudo apt update & sudo apt install 1password
 ```
 
 ##### Source
